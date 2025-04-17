@@ -1,6 +1,36 @@
-# project_ecommerce
+flutter_ecommerce_app
 
-A new Flutter project.
+🌟 Project Overview
+ e-commerce app is a fully functional e-commerce app built with Flutter, showcasing best practices in UI design, state management, and Firebase integration. Designed for both developers and users, it offers a seamless shopping experience with a clean Material Design aesthetic and robust backend functionality.
+
+ 📱 Key Features
+User Experience
+✨ Adaptive Dark/Light Themes – Switch effortlessly between modes for comfortable browsing.
+
+🛒 Dynamic Product Browsing – Explore categories with smooth animations and image caching.
+
+🔐 Secure Authentication – Google Sign-In and Email/Password login powered by Firebase.
+
+📍 Smart Address Management – Auto-validated shipping details for error-free deliveries.
+Technical Highlights
+⚡ State Management – Efficient app-wide control using GetX.
+
+🔥 Real-Time Database – Firebase Firestore integration for product data, orders, and user profiles.
+
+📦 Cart & Checkout Flow – Interactive cart summary, delivery options, and order tracking.
+
+🎨 Custom UI Components – Reusable widgets for buttons, product cards, and animated transitions.
+
+🛠 Tech Stack
+Frontend: Flutter (Dart)
+
+State Management: GetX
+
+Backend: Firebase (Auth, Firestore)
+
+Local Storage: SharedPreferences
+
+UI: Material Design 3, Custom Animations
 
 ## Getting Started
 
