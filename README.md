@@ -1,6 +1,7 @@
 flutter_ecommerce_app
 
-🌟 Project Overview
+🌟 Project Overview :
+
  e-commerce app is a fully functional e-commerce app built with Flutter, showcasing best practices in UI design, state management, and Firebase integration. Designed for both developers and users, it offers a seamless shopping experience with a clean Material Design aesthetic and robust backend functionality.
 
  📱 Key Features
